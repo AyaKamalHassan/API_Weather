@@ -1,0 +1,20 @@
+{
+"cairo":"القاهرة",
+    "Min":"الصغرى",
+    "Max":"الكبرى",
+    "clear sky":"سماء صافيه",
+    "light rain":"امطار متوسطه",
+    "few clouds":"سحب قليله",
+    "scattered clouds":"سحب متفرقة",
+    "broken clouds":"سحب منكسره",
+    "shower rain":"امطار غزيره",
+    "rain":"ممطر",
+    "thunderstorm":"عاصفي",
+    "snow":"مثلج",
+    "mist":"ضبابي",
+    "choose country" :"اختر المحافظه",
+    "Giza":"الجيزة",
+    "Alexandria":"الاسكندريه",
+    "Aswan":"اسوان"
+
+}

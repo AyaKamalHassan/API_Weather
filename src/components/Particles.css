@@ -1,0 +1,10 @@
+.particles-container {
+  position: fixed;   /* يخلي الخلفية ثابتة */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;       /* يخليها ورا المحتوى */
+  overflow: hidden;
+  background-color: rgb(9, 9, 41) !important; 
+}

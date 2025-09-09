@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+/* //costom fonts  */
+
+
+@font-face{
+  font-family: "IBM";
+  src: url('/public/fonts/IBMPlexSansArabic-Regular.ttf');
+  weight:500;
+
+}
